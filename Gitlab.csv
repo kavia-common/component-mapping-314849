@@ -169,3 +169,4 @@
 "prpl-foundation/prplos/feed_mfg","feed_mfg"
 "prpl-foundation/prplos/feed_swupdate","feed_swupdate"
 "prpl-foundation/prplos/feed_mcastd","feed_mcastd"
+"prpl-foundation/components/core/modules/mod-dns-unbound","mod-dns-unbound"

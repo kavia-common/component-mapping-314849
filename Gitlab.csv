@@ -171,3 +171,4 @@
 "prpl-foundation/prplos/feed_mcastd","feed_mcastd"
 "prpl-foundation/components/core/modules/mod-dns-unbound","mod-dns-unbound"
 "prpl-foundation/lcm/libraries/liblcm","liblcm"
+"prpl-foundation/lcm/plugins/cthulhu/cthulhu-networking","cthulhu-networking"

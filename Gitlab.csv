@@ -172,3 +172,4 @@
 "prpl-foundation/components/core/modules/mod-dns-unbound","mod-dns-unbound"
 "prpl-foundation/lcm/libraries/liblcm","liblcm"
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-networking","cthulhu-networking"
+"prpl-foundation/components/core/plugins/tr181-ipdiagnostics","tr181-ipdiagnostics"

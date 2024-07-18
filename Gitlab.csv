@@ -181,3 +181,4 @@
 "prpl-foundation/components/core/plugins/tr181-mqttbroker","tr181-mqttbroker"
 "prpl-foundation/components/core/plugins/faultmonitor","amx-faultmonitor"
 "prpl-foundation/components/core/plugins/reboot-service","reboot-service"
+"prpl-foundation/lcm/plugins/cthulhu/cthulhu-plugin-usp","cthulhu-plugin-usp"

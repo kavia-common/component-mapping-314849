@@ -182,3 +182,4 @@
 "prpl-foundation/components/core/plugins/faultmonitor","amx-faultmonitor"
 "prpl-foundation/components/core/plugins/reboot-service","reboot-service"
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-plugin-usp","cthulhu-plugin-usp"
+"prpl-foundation/components/core/modules/mod-dnssd-advertisement","mod-dnssd-advertisement"

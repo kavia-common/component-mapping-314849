@@ -48,7 +48,7 @@
 "opensource/lighttpd-mod-proxy","lighttpd-module-proxy","lighttpd-mod-proxy"
 "opensource/libnetlink","libnl","libnl-core"
 "opensource/ucode","ucode","ucode"
-"opensource/odhcp6c","odhcp6c","odhcp6c"
+"prpl-foundation/mirrors/odhcp6c","odhcp6c","odhcp6c"
 "opensource/procps","procps","procps-ng"
 "opensource/radvd","radvd","radvd"
 "opensource/libupnp","libupnp","libupnp"

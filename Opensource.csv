@@ -72,3 +72,5 @@
 "opensource/librnp","librnp","librnp"
 "opensource/libpcp","libpcp","libpcp"
 "opensource/libocispec","libocispec","libocispec"
+"opensource/libnetfilter-queue","libnetfilter-queue","libnetfilter-queue"
+"opensource/libipset","libipset","libipset"

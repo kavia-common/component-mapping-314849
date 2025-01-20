@@ -146,6 +146,8 @@
 "prpl-foundation/prplmesh/pwhm/libraries/libswlc","libswlc"
 "prpl-foundation/prplmesh/pwhm/modules/mod-whm-dummy","mod-whm-dummy"
 "prpl-foundation/prplmesh/pwhm/plugins/pwhm","pwhm"
+"prpl-foundation/prplmesh/wifi-scheduler","wifi-scheduler"
+"prpl-foundation/prplmesh/wifi-sensing","wifi-sensing"
 "prpl-foundation/mirrors/unbound","unbound"
 "prpl-foundation/mirrors/ppp","ppp"
 "prpl-foundation/mirrors/miniupnpd","miniupnpd"

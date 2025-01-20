@@ -186,3 +186,5 @@
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-plugin-usp","cthulhu-plugin-usp"
 "prpl-foundation/components/core/modules/mod-dnssd-advertisement","mod-dnssd-advertisement"
 "prpl-foundation/components/core/libraries/libtr181-schedules","libtr181-schedules","libtr181-schedules"
+"prpl-foundation/components/core/plugins/tr181-temperature","tr181-temperature"
+"prpl-foundation/components/core/plugins/oopsmonitor","oopsmonitor"

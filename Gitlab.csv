@@ -188,3 +188,6 @@
 "prpl-foundation/components/core/libraries/libtr181-schedules","libtr181-schedules","libtr181-schedules"
 "prpl-foundation/components/core/plugins/tr181-temperature","tr181-temperature"
 "prpl-foundation/components/core/plugins/oopsmonitor","oopsmonitor"
+"prpl-foundation/lcm/plugins/cthulhu/cthulhu-dhcpc","cthulhu-dhcpc"
+"prpl-foundation/lcm/plugins/cthulhu/cthulhu-onboarding","cthulhu-onboarding"
+"prpl-foundation/lcm/plugins/rlyeh/image-authentication","image-authentication"

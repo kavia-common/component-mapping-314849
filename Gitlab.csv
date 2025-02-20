@@ -191,3 +191,4 @@
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-dhcpc","cthulhu-dhcpc"
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-onboarding","cthulhu-onboarding"
 "prpl-foundation/lcm/plugins/rlyeh/image-authentication","image-authentication"
+"prpl-foundation/components/core/modules/mod-dhcpv4c","mod-dhcpv4c"

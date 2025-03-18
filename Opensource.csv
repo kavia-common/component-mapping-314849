@@ -74,3 +74,4 @@
 "opensource/libocispec","libocispec","libocispec"
 "opensource/libnetfilter-queue","libnetfilter-queue","libnetfilter-queue"
 "opensource/libipset","libipset","libipset"
+"opensource/libsysfs","sysfsutils","sysfsutils"

@@ -14,3 +14,4 @@
 "opensource/sqlite3","sqlite3","libsqlite3"
 "opensource/unbound","unbound","unbound-daemon-prpl"
 "opensource/mfgdecrypt","mfgdecrypt","kmod-mfgdecrypt"
+"opensource/libsysfs","sysfsutils","libsysfs"

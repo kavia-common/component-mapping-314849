@@ -75,3 +75,4 @@
 "opensource/libnetfilter-queue","libnetfilter-queue","libnetfilter-queue"
 "opensource/libipset","libipset","libipset"
 "opensource/libsysfs","sysfsutils","sysfsutils"
+"opensource/libbsd","libbsd","libbsd"

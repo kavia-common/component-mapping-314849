@@ -77,3 +77,4 @@
 "opensource/libsysfs","sysfsutils","sysfsutils"
 "opensource/libbsd","libbsd","libbsd"
 "opensource/libubus","ubus","ubus"
+"opensource/jansson","jansson","jansson"

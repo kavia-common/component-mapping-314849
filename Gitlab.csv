@@ -194,3 +194,4 @@
 "prpl-foundation/components/core/modules/mod-dhcpv4c","mod-dhcpv4c"
 "prpl-foundation/components/ambiorix/modules/amx_dm_mods/mod-busstats","mod-busstats"
 "prpl-foundation/components/core/plugins/tr181-usb","tr181-usb"
+"prpl-foundation/components/core/plugins/tr181-sfp","tr181-sfp"

@@ -76,3 +76,4 @@
 "opensource/libipset","libipset","libipset"
 "opensource/libsysfs","sysfsutils","sysfsutils"
 "opensource/libbsd","libbsd","libbsd"
+"opensource/libubus","ubus","ubus"

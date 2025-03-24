@@ -195,3 +195,4 @@
 "prpl-foundation/components/ambiorix/modules/amx_dm_mods/mod-busstats","mod-busstats"
 "prpl-foundation/components/core/plugins/tr181-usb","tr181-usb"
 "prpl-foundation/components/core/plugins/tr181-sfp","tr181-sfp"
+"prpl-foundation/components/netmodel/clients/netmodel-cellular","netmodel-cellular"

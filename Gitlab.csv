@@ -196,3 +196,5 @@
 "prpl-foundation/components/core/plugins/tr181-usb","tr181-usb"
 "prpl-foundation/components/core/plugins/tr181-sfp","tr181-sfp"
 "prpl-foundation/components/netmodel/clients/netmodel-cellular","netmodel-cellular"
+"prpl-foundation/components/core/modules/mod-cellular-libmm","mod-cellular-libmm"
+"prpl-foundation/components/core/plugins/cellular-manager","cellular-manager"

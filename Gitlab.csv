@@ -198,3 +198,4 @@
 "prpl-foundation/components/netmodel/clients/netmodel-cellular","netmodel-cellular"
 "prpl-foundation/components/core/modules/mod-cellular-libmm","mod-cellular-libmm"
 "prpl-foundation/components/core/plugins/cellular-manager","cellular-manager"
+"prpl-foundation/components/core/plugins/tr181-bulkdata","tr181-bulkdata"

@@ -78,3 +78,4 @@
 "opensource/libbsd","libbsd","libbsd"
 "opensource/libubus","ubus","ubus"
 "opensource/jansson","jansson","jansson"
+"opensource/ethtool","ethtool","ethtool"

@@ -16,3 +16,4 @@
 "opensource/mfgdecrypt","mfgdecrypt","kmod-mfgdecrypt"
 "opensource/libsysfs","sysfsutils","libsysfs"
 "opensource/libubus","ubus","libubus"
+"opensource/ethtool","ethtool","ethtool-full"

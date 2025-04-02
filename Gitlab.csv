@@ -202,3 +202,4 @@
 "prpl-foundation/components/core/modules/mod-network-selector","mod-network-selector"
 "prpl-foundation/components/core/modules/mod-wanmgr-system","mod-wanmgr-system"
 "prpl-foundation/components/core/modules/mod-wanmgr-sfp","mod-wanmgr-sfp"
+"prpl-foundation/components/core/plugins/tr181-led","tr181-led"

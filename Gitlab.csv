@@ -204,3 +204,4 @@
 "prpl-foundation/components/core/modules/mod-wanmgr-sfp","mod-wanmgr-sfp"
 "prpl-foundation/components/core/plugins/tr181-led","tr181-led"
 "prpl-foundation/components/core/plugins/tr181-powersensor","tr181-powersensor"
+"prpl-foundation/components/core/plugins/tr181-button","tr181-button"

@@ -206,3 +206,4 @@
 "prpl-foundation/components/core/plugins/tr181-button","tr181-button"
 "prpl-foundation/components/core/plugins/tr181-powerstatus","tr181-powerstatus"
 "prpl-foundation/components/core/plugins/tr181-periodicfileupload","tr181-periodicfileupload"
+"prpl-foundation/components/core/plugins/tr181-mqtt","tr181-mqtt"

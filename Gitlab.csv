@@ -208,3 +208,4 @@
 "prpl-foundation/components/core/plugins/tr181-periodicfileupload","tr181-periodicfileupload"
 "prpl-foundation/components/core/plugins/tr181-mqtt","tr181-mqtt"
 "prpl-foundation/components/core/plugins/tr140-storageservice","tr140-storageservice"
+"prpl-foundation/components/core/plugins/tr181-thread","tr181-thread"

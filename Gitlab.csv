@@ -210,3 +210,4 @@
 "prpl-foundation/components/core/plugins/tr140-storageservice","tr140-storageservice"
 "prpl-foundation/components/core/plugins/tr181-thread","tr181-thread"
 "prpl-foundation/components/core/kmodules/mcastd-core","mcastd-core"
+"prpl-foundation/components/core/modules/mod-routing-dhcp","mod-routing-dhcp"

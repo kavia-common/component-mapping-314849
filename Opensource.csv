@@ -76,7 +76,6 @@
 "opensource/libipset","libipset","libipset"
 "opensource/libsysfs","sysfsutils","sysfsutils"
 "opensource/libbsd","libbsd","libbsd"
-"opensource/libubus","ubus","ubus"
 "opensource/jansson","jansson","jansson"
 "opensource/ethtool","ethtool","ethtool"
 "opensource/cmocka","cmocka","cmocka"

@@ -79,3 +79,4 @@
 "opensource/libubus","ubus","ubus"
 "opensource/jansson","jansson","jansson"
 "opensource/ethtool","ethtool","ethtool"
+"opensource/cmocka","cmocka","cmocka"

@@ -48,7 +48,7 @@
 "prpl-foundation/components/core/libraries/libnetlink-utils","libnetlink-utils"
 "prpl-foundation/components/core/libraries/libnetmodel","libnetmodel"
 "prpl-foundation/components/core/libraries/libpacket-interception","libpacket-interception"
-"prpl-foundation/components/core/libraries/libprotobuf","libprotobuf"
+"prpl-foundation/components/core/libraries/libprotobuf","libuspprotobuf"
 "prpl-foundation/components/core/libraries/libqoscommon","libqoscommon"
 "prpl-foundation/components/core/libraries/libqosmodule","libqosmodule"
 "prpl-foundation/components/core/libraries/libqosnode","libqosnode"

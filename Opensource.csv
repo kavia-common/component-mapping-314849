@@ -33,7 +33,7 @@
 "opensource/libxslt","libxslt","libxslt"
 "opensource/doxygen","doxygen","doxygen"
 "opensource/libiptc","libiptc","libiptc"
-"opensource/libwebsockets","libwebsockets","libwebsockets4-full"
+"opensource/libwebsockets","libwebsockets","libwebsockets4"
 "opensource/bison","bison","bison"
 "opensource/flex","flex","flex"
 "opensource/fastcgi","fcgi","fcgi"

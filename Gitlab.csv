@@ -212,3 +212,4 @@
 "prpl-foundation/components/core/kmodules/mcastd-core","mcastd-core"
 "prpl-foundation/components/core/modules/mod-routing-dhcp","mod-routing-dhcp"
 "prpl-foundation/components/core/modules/mod-logical-api","mod-logical-api"
+"prpl-foundation/components/core/libraries/libdiscoping","libdiscoping"

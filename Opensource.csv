@@ -73,7 +73,7 @@
 "opensource/libpcp","libpcp","libpcp"
 "opensource/libocispec","libocispec","libocispec"
 "opensource/libnetfilter-queue","libnetfilter-queue","libnetfilter-queue"
-"opensource/libipset","libipset","libipset"
+"opensource/libipset","libipset","ipset"
 "opensource/libsysfs","sysfsutils","sysfsutils"
 "opensource/libbsd","libbsd","libbsd"
 "opensource/jansson","jansson","jansson"

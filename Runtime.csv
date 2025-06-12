@@ -1,6 +1,6 @@
 "path","yocto","openwrt"
 "opensource/openssl","openssl","libopenssl"
-"opensource/libuuid","util-linux-libuuid","libuuid"
+"opensource/libuuid","util-linux","libuuid"
 "opensource/expat","expat","libexpat"
 "opensource/libevent","libevent","libevent2"
 "opensource/mosquitto","mosquitto","libmosquitto"

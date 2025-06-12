@@ -46,7 +46,7 @@
 "opensource/lighttpd-mod-expire","lighttpd-module-expire","lighttpd-mod-expire"
 "opensource/lighttpd-mod-authn_file","lighttpd-module-authn-file","lighttpd-mod-authn_file"
 "opensource/lighttpd-mod-proxy","lighttpd-module-proxy","lighttpd-mod-proxy"
-"opensource/libnetlink","libnl","libnl-core"
+"opensource/libnetlink","libnl","libnl"
 "opensource/ucode","ucode","ucode"
 "prpl-foundation/mirrors/odhcp6c","odhcp6c","odhcp6c"
 "opensource/procps","procps","procps-ng"

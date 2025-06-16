@@ -81,4 +81,4 @@
 "opensource/cmocka","cmocka","cmocka"
 "opensource/acl","acl","acl"
 "opensource/glib2","glib-2.0","glib2"
-"opensource/glib2","modemmanager","modemmanager"
+"opensource/modemmanager","modemmanager","modemmanager"

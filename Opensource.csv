@@ -80,3 +80,4 @@
 "opensource/ethtool","ethtool","ethtool"
 "opensource/cmocka","cmocka","cmocka"
 "opensource/acl","acl","acl"
+"opensource/glib2","glib2","glib2"

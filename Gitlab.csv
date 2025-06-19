@@ -213,3 +213,4 @@
 "prpl-foundation/components/core/modules/mod-routing-dhcp","mod-routing-dhcp"
 "prpl-foundation/components/core/modules/mod-logical-api","mod-logical-api"
 "prpl-foundation/components/core/libraries/libdiscoping","libdiscoping"
+"prpl-foundation/components/core/plugins/tr181-conmon","tr181-conmon"

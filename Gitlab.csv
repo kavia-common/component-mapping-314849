@@ -175,6 +175,7 @@
 "prpl-foundation/prplos/feeds/feed_mfg","feed_mfg"
 "prpl-foundation/prplos/feeds/feed_swupdate","feed_swupdate"
 "prpl-foundation/prplos/feeds/feed_mcastd","feed_mcastd"
+"prpl-foundation/prplos/feeds/feed-prplos","feed_prplos"
 "prpl-foundation/components/core/modules/mod-dns-unbound","mod-dns-unbound"
 "prpl-foundation/lcm/libraries/liblcm","liblcm"
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-networking","cthulhu-networking"

@@ -216,3 +216,4 @@
 "prpl-foundation/components/core/modules/mod-logical-api","mod-logical-api"
 "prpl-foundation/components/core/libraries/libdiscoping","libdiscoping"
 "prpl-foundation/components/core/plugins/tr181-conmon","tr181-conmon"
+"prpl-foundation/lcm/plugins/cthulhu/cthulhu-capabilities","cthulhu-capabilities"

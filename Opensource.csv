@@ -83,3 +83,4 @@
 "opensource/glib2","glib-2.0","glib2"
 "opensource/modemmanager","modemmanager","modemmanager"
 "opensource/procps-ng","procps-ng","procps-ng"
+"opensource/iperf3","iperf3","iperf3"

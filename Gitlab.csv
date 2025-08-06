@@ -218,3 +218,4 @@
 "prpl-foundation/components/core/plugins/tr181-conmon","tr181-conmon"
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-capabilities","cthulhu-capabilities"
 "prpl-foundation/components/core/modules/mod_ipv6_wait","mod-ipv6-wait"
+"prpl-foundation/components/core/plugins/tr181-cpu","tr181-cpu"

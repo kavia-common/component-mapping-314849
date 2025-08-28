@@ -225,3 +225,5 @@
 "prpl-foundation/components/prplprobe/datacollect-agent","datacollect-agent"
 "prpl-foundation/components/prplprobe/libdatacollect","libdatacollect"
 "prpl-foundation/components/prplprobe/datacollect-collector","datacollect-collector"
+"prpl-foundation/components/core/plugins/tr181-gnimanager","tr181-gnimanager"
+"prpl-foundation/components/netmodel/clients/netmodel-gni","netmodel-gni"

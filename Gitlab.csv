@@ -220,5 +220,5 @@
 "prpl-foundation/components/core/modules/mod_ipv6_wait","mod-ipv6-wait"
 "prpl-foundation/components/core/plugins/tr181-cpu","tr181-cpu"
 "prpl-foundation/components/core/plugins/tr181-upnpdiscovery","tr181-upnpdiscovery"
-"prpl-foundation/components/core/libraries/lib_tr181-hosts","lib_tr181-hosts"
+"prpl-foundation/components/core/libraries/lib_tr181-hosts","libtr181-hosts"
 "prpl-foundation/components/core/plugins/tr181-security","tr181-security"

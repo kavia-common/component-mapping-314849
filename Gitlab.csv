@@ -223,3 +223,5 @@
 "prpl-foundation/components/core/libraries/lib_tr181-hosts","libtr181-hosts"
 "prpl-foundation/components/core/plugins/tr181-security","tr181-security"
 "prpl-foundation/components/prplprobe/datacollect-agent","datacollect-agent"
+"prpl-foundation/components/prplprobe/libdatacollect","libdatacollect"
+"prpl-foundation/components/prplprobe/datacollect-collector","datacollect-collector"

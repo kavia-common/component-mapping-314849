@@ -227,3 +227,4 @@
 "prpl-foundation/components/datacollect/datacollect-collector","datacollect-collector"
 "prpl-foundation/components/core/plugins/tr181-gnimanager","tr181-gnimanager"
 "prpl-foundation/components/netmodel/clients/netmodel-gni","netmodel-gni"
+"prpl-foundation/components/core/plugins/usp-discovery","usp-discovery"

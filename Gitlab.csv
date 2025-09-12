@@ -230,3 +230,4 @@
 "prpl-foundation/components/core/plugins/usp-discovery","usp-discovery"
 "prpl-foundation/components/core/plugins/tr069-discovery","tr069-discovery"
 "prpl-foundation/components/core/plugins/tr181-gatewayinfo","tr181-gatewayinfo"
+"prpl-foundation/components/core/plugins/mcastd-noforward","mcastd-noforward"

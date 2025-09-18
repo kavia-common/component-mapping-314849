@@ -232,3 +232,4 @@
 "prpl-foundation/components/core/plugins/tr181-gatewayinfo","tr181-gatewayinfo"
 "prpl-foundation/components/core/plugins/mcastd-noforward","mcastd-noforward"
 "prpl-foundation/components/core/plugins/deviceinfo-swupdate","deviceinfo-swupdate"
+"prpl-foundation/components/core/plugins/tr181-flashmonitor","tr181-flashmonitor"

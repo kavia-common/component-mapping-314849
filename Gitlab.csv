@@ -234,3 +234,4 @@
 "prpl-foundation/components/core/plugins/deviceinfo-swupdate","deviceinfo-swupdate"
 "prpl-foundation/components/core/plugins/tr181-flashmonitor","tr181-flashmonitor"
 "prpl-foundation/components/core/plugins/tr181-lanconfigsecurity","tr181-lanconfigsecurity"
+"prpl-foundation/components/netmodel/clients/netmodel-optical","netmodel-optical"

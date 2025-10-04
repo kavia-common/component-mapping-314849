@@ -237,3 +237,4 @@
 "prpl-foundation/components/netmodel/clients/netmodel-optical","netmodel-optical"
 "prpl-foundation/components/core/plugins/tr181-homeplug","tr181-homeplug"
 "prpl-foundation/components/core/plugins/tr181-mcastd","tr181-mcastd"
+"prpl-foundation/components/core/plugins/tr181-conntrack-query","tr181-conntrack-query"

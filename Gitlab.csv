@@ -113,6 +113,7 @@
 "prpl-foundation/components/gmap/applications/gmap-mod-name-selector","gmap-mod-name-selector"
 "prpl-foundation/components/gmap/applications/gmap-mod-self","gmap-mod-self"
 "prpl-foundation/components/gmap/applications/gmap-mod-upnp","gmap-mod-upnp"
+"prpl-foundation/components/gmap/applications/gmap-mod-dnssd","gmap-mod-dnssd"
 "prpl-foundation/components/gmap/applications/gmap-server","gmap-server"
 "prpl-foundation/components/gmap/libraries/libgmap-client","libgmap-client"
 "prpl-foundation/components/gmap/libraries/libgmap-ext","libgmap-ext"

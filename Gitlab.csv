@@ -242,4 +242,5 @@
 "prpl-foundation/components/core/plugins/tr181-conntrack-query","tr181-conntrack-query"
 "prpl-foundation/components/core/plugins/tr181-gre","tr181-gre"
 "prpl-foundation/components/core/plugins/tr181-schedules","tr181-schedules"
+"prpl-foundation/components/core/plugins/tr181-powermanager","tr181-powermanager"
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-syslog","cthulhu-syslog"

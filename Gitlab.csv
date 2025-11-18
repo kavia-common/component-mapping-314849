@@ -244,3 +244,5 @@
 "prpl-foundation/components/core/plugins/tr181-schedules","tr181-schedules"
 "prpl-foundation/components/core/plugins/tr181-powermanager","tr181-powermanager"
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-syslog","cthulhu-syslog"
+"prpl-foundation/lcm/plugins/cthulhu/cthulhu-lpm","cthulhu-lpm"
+"prpl-foundation/lcm/plugins/cthulhu/cthulhu-pcm","cthulhu-pcm"

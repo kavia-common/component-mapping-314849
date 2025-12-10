@@ -70,6 +70,7 @@
 "prpl-foundation/components/core/modules/mod-vlan-ioctl","mod-vlan-ioctl"
 "prpl-foundation/components/core/modules/mod-vlan-uci","mod-vlan-uci"
 "prpl-foundation/components/core/modules/mod-xpon-prpl","mod-xpon-prpl"
+"prpl-foundation/components/core/modules/mod-pwr-thread","mod-pwr-thread"
 "prpl-foundation/components/core/plugins/multisettings","multisettings"
 "prpl-foundation/components/core/plugins/netdev","netdev-plugin"
 "prpl-foundation/components/core/plugins/netmodel","netmodel"

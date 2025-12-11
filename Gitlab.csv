@@ -249,3 +249,4 @@
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-syslog","cthulhu-syslog"
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-lpm","cthulhu-lpm"
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-pcm","cthulhu-pcm"
+"prpl-foundation/components/core/modules/mod-deepstandby-dummy","mod-deepstandby-dummy"

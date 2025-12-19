@@ -251,3 +251,7 @@
 "prpl-foundation/lcm/plugins/cthulhu/cthulhu-pcm","cthulhu-pcm"
 "prpl-foundation/components/core/modules/mod-deepstandby-dummy","mod-deepstandby-dummy"
 "prpl-foundation/components/core/plugins/tr104-voip","tr104-voip"
+"prpl-foundation/components/core/modules/mod-ppp-daemon","mod-ppp-daemon"
+"prpl-foundation/components/core/modules/mod-ra-radvd","mod-ra-radvd"
+"prpl-foundation/components/core/modules/mod-usp_registration","mod-usp-registration"
+"prpl-foundation/components/netmodel/clients/netmodel-xpon","netmodel-xpon"

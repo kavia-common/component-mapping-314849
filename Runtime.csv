@@ -17,3 +17,4 @@
 "opensource/libsysfs","sysfsutils","libsysfs"
 "opensource/libubus","ubus","libubus"
 "opensource/ethtool","ethtool","ethtool-full"
+"opensource/ppp","ppp","ppp-prpl"

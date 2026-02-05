@@ -257,3 +257,4 @@
 "prpl-foundation/components/core/modules/mod-usp_registration","mod-usp-registration"
 "prpl-foundation/components/netmodel/clients/netmodel-xpon","netmodel-xpon"
 "prpl-foundation/components/core/modules/mod-wanmgr-system-ospv2","mod-wanmgr-system-ospv2"
+"prpl-foundation/components/core/plugins/tr181-uds","tr181-uds"

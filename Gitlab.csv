@@ -133,6 +133,7 @@
 "prpl-foundation/components/netmodel/clients/netmodel-radio","netmodel-radio"
 "prpl-foundation/components/netmodel/clients/netmodel-ssid","netmodel-ssid"
 "prpl-foundation/components/netmodel/clients/netmodel-vlan","netmodel-vlan"
+"prpl-foundation/components/netmodel/clients/netmodel-moca","netmodel-moca"
 "prpl-foundation/components/netmodel/modules/mod-netmodel","mod-netmodel"
 "prpl-foundation/components/utilities/odl-generator","odl-generator"
 "prpl-foundation/components/utilities/debug-information","debug-information"

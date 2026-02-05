@@ -62,7 +62,6 @@
 "opensource/miniupnpd","miniupnpd","miniupnpd-prpl"
 "opensource/json-c","json-c","libjson-c"
 "opensource/opennds","opennds","opennds-prpl"
-"opensource/ppp","ppp","ppp-prpl"
 "opensource/dnsmasq","dnsmasq","dnsmasq-prpl"
 "opensource/chrony","chrony","chrony-prpl"
 "opensource/libgpiod","libgpiod","libgpiod"
